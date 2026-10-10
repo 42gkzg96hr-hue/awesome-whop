@@ -57,12 +57,14 @@ Takeaway: most products earn nothing. The ones that do usually run a free produc
 ## Affiliate marketing on Whop
 
 - [Whop affiliate program: commissions and EPC](https://retainer-three.vercel.app/blog/whop-affiliate-program-commissions-and-epc) - Why the commission rate predicts nothing and earnings per click is the number to read.
+- [Whop affiliate program: why EPC beats commission](https://whop.com/whoplabfr/whop-affiliate-epc-guide/) - Free guide: how affiliates get paid and how to pick programs.
 - Rule of thumb from the affiliate marketplace (Sept 2026): a program paying 15% earned ~$19.57 per click while one paying 50% earned ~$0.29 per click. Compare EPC, not percentages.
 - [Whop Deals](https://whop.com/thewhopdeals/) - Free comparison of paid communities on Whop: price, billing cycle, reviews and paying members, with affiliate links disclosed.
 
 ## Content Rewards (clipping)
 
 - Content Rewards lets brands and creators pay clippers per verified view on TikTok, YouTube Shorts and Reels. Payout per 1,000 views and caps are set by each campaign.
+- [Whop Content Rewards explained: what clippers really earn](https://whop.com/whoplabfr/whop-content-rewards-guide/) - Free guide in English.
 - [Content Rewards guide (FR)](https://whop.com/whoplabfr/content-rewards-whop/) - How campaigns work, payouts, what to know before starting.
 
 ## Retention, churn and failed payments
@@ -87,6 +89,8 @@ How to judge a whop before paying:
 
 Refunds: open your Whop profile, then Orders, open the purchase and use "Request a refund". If the seller does not answer, contact [Whop support](https://help.whop.com) with the invoice number.
 
+- [Is Whop legit? Honest review with real numbers](https://whop.com/whoplabfr/whop-legit-review/) - Free guide: how to judge a whop in 2 minutes.
+- [How to get a refund on Whop, step by step](https://whop.com/whoplabfr/whop-refund-guide/) - Where to click, what to write, what to do if the seller ignores you.
 - [Whop review, in French: is it legit and who makes money](https://whop.com/whoplabfr/whop-avis/)
 
 ## Free tools and calculators
